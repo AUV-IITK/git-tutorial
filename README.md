@@ -1,5 +1,5 @@
-# This is a tutorial
 
+- kuldeep thakare 220557 kuldeepthakare7
 - rythm kumar (220925)
 - Mridul Gupta (220672)  mridul-g
 - Raj Vinayak Meena (220861) rajvinayak1809
@@ -8,3 +8,5 @@
 - likith sai(220483) jlikithsai
 - Mudit Agrawal (220673) Mudiit4
 - Amrit Raj 220128 amritraj1705
+- Harshit (220436) Chhikara029
+
