@@ -10,4 +10,5 @@
 - Amrit Raj 220128 amritraj1705
 - Harshit (220436) Chhikara029
 - Sparsh Goyal (221083) thesparshgoyal
--  Chiranhsu Kataria (220315) chiranshukataria
+- Chiranhsu Kataria (220315) chiranshukataria
+- Varun Mahajan (221173) vm349177
