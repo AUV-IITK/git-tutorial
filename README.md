@@ -1,5 +1,4 @@
 # This is a tutorial
-<<<<<<< HEAD
 rythm kumar roll no 220925
 =======
 Mridul Gupta (220672)  mridul-g
