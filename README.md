@@ -9,4 +9,4 @@
 - Mudit Agrawal (220673) Mudiit4
 - Amrit Raj 220128 amritraj1705
 - Harshit (220436) Chhikara029
-
+- Sparsh Goyal (221083) thesparshgoyal
