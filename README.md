@@ -16,4 +16,6 @@
 - Ahemaziz Singh, 220087, AhemazizSingh
 - Varun Mahajan (221173) vm349177
 - sumit 221101 sumitchoudhary610
-- Atharv Moghe(220250) Atharv2207
+- Prabhat 220774, Prabhat220774
+- Anshul Narwariya(220173) AnshulNarwariya
+- Atharv MOghe(220250) Atharv2207
