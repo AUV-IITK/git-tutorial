@@ -18,5 +18,5 @@
 - sumit 221101 sumitchoudhary610
 - Prabhat 220774, Prabhat220774
 - Anshul Narwariya(220173) AnshulNarwariya
-- Atharv MOghe(220250) Atharv2207
+- Atharv Moghe(220250) Atharv2207
 - Abhijit (220031) ASbhijitJowhari
