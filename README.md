@@ -1,3 +1,1 @@
-# Tutorial
-
-Sunidhi Chauhan (241062)
+-Sunidhi Chauhan (241062)
